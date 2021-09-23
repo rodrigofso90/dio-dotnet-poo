@@ -1,2 +1,2 @@
 # dio-dotnet-poo
-Programa para Inserir, Atualizr, Excluir series.
+Programa para Inserir, Atualizar, Excluir series.
